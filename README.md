@@ -12,7 +12,7 @@ As a developers, we constantly work on providing user with the best experience. 
 
 See More: [/docs/migrate]("/docs/migrate")
 
-
+R.U.G is orignally desiged as a layer above your OS and your app's code, that reduces friction, and provides clean and optimized code to native OS API's all while enhancing developer experience, so you can focus on your code while we worry about the deployment. Similar to an original [rug](https://dictionary.cambridge.org/dictionary/english/rug)
 
 ## Upcoming Features
 1. ## Templating
@@ -42,6 +42,8 @@ See More: [/docs/migrate]("/docs/migrate")
    ```diff 
   + Total 360 Customizability
   + Native OS api
+  + GPU rendering and Computation
+  +  Device Specific Optimizations
   
   + Supports Themes
   + Free & Paid Extensions and Components 
